@@ -14,7 +14,7 @@ A key highlight is the **AI Copilot panel**—a static simulation of an AI assis
 
 ## 🚀 Live Demo
 
-🌐 [View Live Demo](https://your-demo-link.com](https://beyond-chat-ten.vercel.app/)
+🌐 [View Live Demo](https://beyond-chat-ten.vercel.app/)
 
 ## 🌟 Features
 
